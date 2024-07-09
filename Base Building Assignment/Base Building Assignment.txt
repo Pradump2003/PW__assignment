@@ -1,0 +1,34 @@
+Que.1 - what is the Internet? Explain in your own words.
+Ans - The Internet is a global network of billions of computers and other electronic devices.                      
+With the Internet, it's possible to access almost any information, communicate with anyone else 
+in the world, and do much more. You can do all of this by connecting a computer to the Internet, 
+which is also called going online.
+
+Que.2 - what is  the web browser? Explain in your own words.
+Ans -  A web browser is an application for accessing websites. When a user requests a web page 
+from a particular website, the browser retrieves its files from a web server and then displays 
+the page on the user's screen. 
+
+Que.3 - what is a browser engine? Explain in your own words.
+Ans -  A browser engine is a core software component of every major web browser. The primary job 
+of a browser engine is to transform HTML documents and other resources of a web page into an 
+interactive visual representation on a user’s device.
+
+Que.4 - what is a static site? Explain in your own words.
+Ans - A static website is made up of a fixed number of pre-built files stored on a web server. These 
+files are written in HTML, CSS, and JavaScript, which are called “client-side” languages because they 
+execute in the user’s web browser.
+
+Que.5 - what is a dynamic site? Explain in your own words.
+Ans - Dynamic Website is a website containing data that can be mutable or changeable. It uses 
+client-side or server scripting to generate mutable content. Like a static website, it also contains 
+HTML data.
+
+Dynamic websites are those websites that changes the content or layout with every request to the webserver. 
+These websites have the capability of producing different content for different visitors from the same source 
+code file. There are two kinds of dynamic web pages i.e. client side scripting and server side scripting. 
+The client-side web pages changes according to your activity on the web page. On the server-side, web pages 
+are changed whenever a web page is loaded.
+
+Example: login & signup pages, application & submission forms, inquiry and shopping cart pages
+
